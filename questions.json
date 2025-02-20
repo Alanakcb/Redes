@@ -1,0 +1,17 @@
+[
+    {
+        "pergunta": "Qual é a capital da França?",
+        "alternativas": ["Berlim", "Madrid", "Paris", "Roma"],
+        "correta": 3
+    },
+    {
+        "pergunta": "Quanto é 5 + 3?",
+        "alternativas": ["5", "8", "10", "15"],
+        "correta": 2
+    },
+    {
+        "pergunta": "Quanto é 5 + 7?",
+        "alternativas": ["10", "12", "15", "20"],
+        "correta": "2"
+    }
+]
